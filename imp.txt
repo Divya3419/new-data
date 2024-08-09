@@ -1,0 +1,1 @@
+ https://api.ecommerceapi.io/google_shopping?api_key=66b4aaa92664dd230b5c5d00&q=rakhi&gl=in
